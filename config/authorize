@@ -1,1 +1,1 @@
-bob Cleartext-Password := "testing123"
+testing Cleartext-Password := "testing123@RADIUS"
